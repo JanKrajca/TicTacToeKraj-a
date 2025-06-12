@@ -1,0 +1,20 @@
+{
+  "name": "tic-tac-toe-multiplayer",
+  "version": "1.0.0",
+  "description": "Showcase for students of websocket/multiplayer implementation.",
+  "main": "game.js",
+  "dependencies": {
+    "ws": "^8.18.2"
+  },
+  "scripts": {
+    "serve": "node server.js"
+  },
+  "keywords": [
+    "tic-tac-toe",
+    "websocket",
+    "multiplayer",
+    "school project"
+  ],
+  "author": "jakubforman",
+  "license": "ISC"
+}
